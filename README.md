@@ -1,15 +1,27 @@
-# Cloudcredits
-This repository contains my cybersecurity mini projects developed during my internship.
+# Cloudcredits - Cyber Security Projects
 
-## Projects
+This repository contains my cybersecurity projects developed during my internship at Cloudcredits.
+
+## Projects Included
 
 ### 1. User Authentication System
-A Python-based system that allows users to register and log in securely.  
-It uses password hashing and stores user data using file handling.
+A Python-based system that allows users to register and log in securely.
+
+Features:
+- User Registration
+- Secure Login
+- Password Hashing
+- Account lock after multiple failed attempts
 
 ### 2. Password Strength Analyzer
-A Python program that checks the strength of a password based on length, uppercase letters, lowercase letters, numbers, and special characters.  
-It also provides suggestions to improve password security.
+A Python program that checks the strength of a password.
 
-## Technology Used
+Features:
+- Checks password length
+- Detects uppercase and lowercase letters
+- Detects numbers
+- Detects special characters
+- Provides suggestions to improve password strength
+
+## Technologies Used
 - Python
